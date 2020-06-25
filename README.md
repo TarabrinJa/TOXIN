@@ -1,2 +1,2 @@
-# FSD Playground
-FSD frontend education program
+# Full Stack Development
+education programm
