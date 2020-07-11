@@ -1,0 +1,27 @@
+{
+  "name": "fsd-ep",
+  "version": "1.0.0",
+  "description": "frontend education program",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarabrinJa/fsd-ep.git"
+  },
+  "keywords": [
+		"frontend",
+		"fullstack",
+		"development"
+	],
+  "author": "tarabrinja <tarabrinjacob@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarabrinJa/fsd-ep/issues"
+  },
+  "homepage": "https://github.com/TarabrinJa/fsd-ep#readme"
+}
