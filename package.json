@@ -14,14 +14,18 @@
     "url": "git+https://github.com/TarabrinJa/fsd-ep.git"
   },
   "keywords": [
-		"frontend",
-		"fullstack",
-		"development"
-	],
+    "frontend",
+    "fullstack",
+    "development"
+  ],
   "author": "tarabrinja <tarabrinjacob@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TarabrinJa/fsd-ep/issues"
   },
-  "homepage": "https://github.com/TarabrinJa/fsd-ep#readme"
+  "homepage": "https://github.com/TarabrinJa/fsd-ep#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
 }
